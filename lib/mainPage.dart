@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:ui';
-import 'package:health_and_doctor_appointment/firestore-data/searchList.dart';
-import 'package:health_and_doctor_appointment/screens/homePage.dart';
-import 'package:health_and_doctor_appointment/screens/myAppointments.dart';
-import 'package:health_and_doctor_appointment/screens/userProfile.dart';
-import 'package:health_and_doctor_appointment/screens/doctorsList.dart';
+import 'package:patient/firestore-data/searchList.dart';
+import 'package:patient/screens/homePage.dart';
+import 'package:patient/screens/myAppointments.dart';
+import 'package:patient/screens/userProfile.dart';
+import 'package:patient/screens/doctorsList.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
